@@ -1,0 +1,851 @@
+{
+ "s-nacht": {
+  "alt": "Das Riegelhaus der Taverne zum Schäfli am Abend, Licht in den Fenstern",
+  "w": 1919,
+  "h": 1280,
+  "verh": 0.66701,
+  "breiten": [
+   480,
+   800,
+   1200,
+   1800,
+   1919
+  ],
+  "abbild": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAQAgCdASoQAAsAAoBCJYwCdADcJXKDsUywAPww4+6hxYlCIWvxM+unz7/uTjgqFC6WdnUnmFKgVrQGXGs8/E1bXQO/qOJI5z+WokrJ2BqK8FDYjh5yrLkAAAA=",
+  "quelle": "Taverne zum Schäfli Wigoltingen/_quelle/website/bilder/a88046_IMG_0293.jpeg",
+  "nachweis": null
+ },
+ "s-nacht-hoch": {
+  "alt": "Das Riegelhaus der Taverne zum Schäfli am Abend, Licht in den Fenstern",
+  "w": 959,
+  "h": 1280,
+  "verh": 1.33472,
+  "breiten": [
+   480,
+   800,
+   959
+  ],
+  "abbild": "data:image/webp;base64,UklGRqIAAABXRUJQVlA4IJYAAACwBACdASoQABUAPrVInkmnJCKhMAgA4BaJYwCdMoAlpRKBoMG7x5IGqL+sOyGAAM3QXW2d/Pd+F7Q9z4uKxXGuGzVN4fbcgo5Wr0K+54FXKAR3gnpljPwxsiM+esKgelh3poaYhG3qABXibznEwhGdaR8WxkJlfkZmtQGm9qV7Y2KVk5O5RcN7474n3YAI1Hos7alAAAA=",
+  "quelle": "Taverne zum Schäfli Wigoltingen/_quelle/website/bilder/a88046_IMG_0293.jpeg",
+  "nachweis": null
+ },
+ "s-fassade": {
+  "alt": "Das Riegelhaus der Taverne zum Schäfli an der Oberdorfstrasse in Wigoltingen",
+  "w": 4200,
+  "h": 2380,
+  "verh": 0.56667,
+  "breiten": [
+   480,
+   800,
+   1200,
+   1800,
+   2400
+  ],
+  "abbild": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAAAQAgCdASoQAAkAAoBCJZQCdAEf/8hrNWMAAP4J517xR5mMjFyWO1nucMUvztSOroH1nZQJ7z4nM8GmfysYHtuG7hzn9X3ZduV2vKJzILnQSM8A9xEAAA==",
+  "quelle": "Taverne zum Schäfli Wigoltingen/_quelle/extern/wikipedia-commons/bilder/Taverne_zum_Schäfli_in_Wigoltingen_TG.jpg",
+  "nachweis": {
+   "urheber": "JoachimKohler-HB",
+   "lizenz": "CC BY-SA 4.0",
+   "quelle": "https://commons.wikimedia.org/wiki/File:Taverne_zum_Schäfli_in_Wigoltingen_TG.jpg"
+  }
+ },
+ "s-giebel": {
+  "alt": "Das Riegelhaus der Taverne zum Schäfli mit dem Giebel zur Strasse",
+  "w": 4000,
+  "h": 2500,
+  "verh": 0.625,
+  "breiten": [
+   480,
+   800,
+   1200,
+   1800,
+   2400
+  ],
+  "abbild": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAAAwAgCdASoQAAoAAoBCJZQCdB2gAlC5bVXV8AD+8pKzqZqGqTSwI9rYqkd2S5R9g3EWpBY2OEu5OgcLvqM+sBB6012qOYNzkuuaEfGg0fprj57xaJsCQSxqgib6gkEcZKV1D1YRopAAAA==",
+  "quelle": "Taverne zum Schäfli Wigoltingen/_quelle/extern/wikipedia-commons/bilder/Taverne_zum_Schäfli_in_Wigoltingen.jpg",
+  "nachweis": {
+   "urheber": "JoachimKohler-HB",
+   "lizenz": "CC BY-SA 4.0",
+   "quelle": "https://commons.wikimedia.org/wiki/File:Taverne_zum_Schäfli_in_Wigoltingen.jpg"
+  }
+ },
+ "s-luft1924": {
+  "alt": "Wigoltingen von Süden aus 400 Metern, Luftbild von Walter Mittelholzer, 1924",
+  "w": 3610,
+  "h": 2444,
+  "verh": 0.67701,
+  "breiten": [
+   480,
+   800,
+   1200,
+   1800,
+   2400
+  ],
+  "abbild": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAADwAQCdASoQAAsAAoBCJaQAAxZhdkxXoAAA/tDig8ejnUgPswHCU1gX0ggyNVqdgMWQGnqHh8AAAA==",
+  "quelle": "Taverne zum Schäfli Wigoltingen/_quelle/extern/wikipedia-commons/bilder/ETH-BIB-Wigoltingen_v._S._aus_400_m-Inlandflüge-LBS_MH01-004101.jpg",
+  "nachweis": {
+   "urheber": "Walter Mittelholzer",
+   "lizenz": "Public domain",
+   "quelle": "https://commons.wikimedia.org/wiki/File:ETH-BIB-Wigoltingen_v._S._aus_400_m-Inlandflüge-LBS_MH01-004101.tif"
+  }
+ },
+ "s-schild": {
+  "alt": "Das Wirtshausschild aus Schmiedeeisen mit dem Lamm und der Fahne",
+  "w": 3120,
+  "h": 3000,
+  "verh": 0.96154,
+  "breiten": [
+   480,
+   800,
+   1200,
+   1800,
+   2400
+  ],
+  "abbild": "data:image/webp;base64,UklGRpQAAABXRUJQVlA4IIgAAABQAgCdASoQAA8AAoBCJZACdAYuva4qzF9qqyAA/vTfxQ4FzQp/gfsdRxyg/T0EezXma73DZGyingDK0adxBlqeX99hmkduUEwg/eQuqtbYSFaQDmpfDu18OgkByjVQ09V5KF1hghEzUwa4mDKV7bg2ZQPYgHyZm0g7GKfkqALMUttgpimhqkAA",
+  "quelle": "Taverne zum Schäfli Wigoltingen/_quelle/extern/wikipedia-commons/bilder/Wirtshausschild_der_Taverne_zum_Schäfli_in_Wigoltingen_TG.jpg",
+  "nachweis": {
+   "urheber": "JoachimKohler-HB",
+   "lizenz": "CC BY-SA 4.0",
+   "quelle": "https://commons.wikimedia.org/wiki/File:Wirtshausschild_der_Taverne_zum_Schäfli_in_Wigoltingen_TG.jpg"
+  }
+ },
+ "s-tuer": {
+  "alt": "Christian Kuchler lehnt im Türrahmen aus Weinkisten",
+  "w": 2500,
+  "h": 3750,
+  "verh": 1.5,
+  "breiten": [
+   480,
+   800,
+   1200,
+   1800,
+   2400
+  ],
+  "abbild": "data:image/webp;base64,UklGRqoAAABXRUJQVlA4IJ4AAABwBACdASoQABgAPrVInkmnJCKhMAgA4BaJQBOmUAS14vT+WHXEM4UfKO3WAAD+95coP64zuWR0WLo8b/1VjGl+z6UFTL3IYWZP+LsmO+QobFBJP6b1MBFL5s/h6sjYCVVtYNHDa1E3eIF5qrfBkUyHgSTDqWP9aAWihqEDW+q7vyKk8FHF56LrQAnprHUeWH5+61PGI2EiSKOJAQAAAA==",
+  "quelle": "Taverne zum Schäfli Wigoltingen/_quelle/website/bilder/28c378_FHF_1090.jpg",
+  "nachweis": null
+ },
+ "s-christian": {
+  "alt": "Christian Kuchler in der Kochjacke vor dem Haus",
+  "w": 2500,
+  "h": 3750,
+  "verh": 1.5,
+  "breiten": [
+   480,
+   800,
+   1200,
+   1800,
+   2400
+  ],
+  "abbild": "data:image/webp;base64,UklGRvIAAABXRUJQVlA4IOYAAACQBACdASoQABgAPrVInkmnJCKhMAgA4BaJQBOj+BBgNRWj8Jo4akNQwTfVpYAA9nf5vhN7DexXyyPlNW6St/bGzern4KRzDCI0iR/ksWayd5Jea/EGuHnDU2+UpQqMDOp3Ym5nHenWiQa/+oW+M2wmbD8oP9qlxEmebfCgmTbrKZ28Od5Q6UYtWuky+7H4wrr5P76h4N/xi3gUHPUgnxH/xPDyuUd5tH+g/eogfiX529sfjAtYPyV5ofmtXNKzsPp/4QFD5iZ3wxnXA94AOIcRuRXdFYVq8gQRbWe2WQ3motoLrMAAAA==",
+  "quelle": "Taverne zum Schäfli Wigoltingen/_quelle/website/bilder/2130bf_FHF_1081.jpg",
+  "nachweis": null
+ },
+ "s-vater": {
+  "alt": "Wolfgang Kuchler in der Jacke mit seinen Initialen vor dem Haus",
+  "w": 2441,
+  "h": 3661,
+  "verh": 1.4998,
+  "breiten": [
+   480,
+   800,
+   1200,
+   1800,
+   2400
+  ],
+  "abbild": "data:image/webp;base64,UklGRuIAAABXRUJQVlA4INYAAADQBACdASoQABgAPrVInkmnJCKhMAgA4BaJYgCdH8FEADZeoR+6UAuEyzGb+U0ggAD+9Ogj7uQAKcwvvGjV3WhEgG3cvpyRksGdnwvDyYwepZsv/dxlc7CLiGpc72qkkIhXMUA74gFPfWlhAX6G2wDcCyaQ4S3lLn0jej4f352OiaW8HerqEbSnOCK1IHTbNWzhKDDsTvgqaGDkNytg70dwS6w1tu06tPQ+loN8rjikOD5YpPW7zhAsWB+57r54ErIVcbzfWu1IYxvPfWUQb+vUfWHv5AAA",
+  "quelle": "Taverne zum Schäfli Wigoltingen/_quelle/website/bilder/850c49__FHF5587.jpg",
+  "nachweis": null
+ },
+ "s-hand": {
+  "alt": "Eine Hand richtet mit dem Löffel einen Teller an",
+  "w": 1179,
+  "h": 1748,
+  "verh": 1.48261,
+  "breiten": [
+   480,
+   800,
+   1179
+  ],
+  "abbild": "data:image/webp;base64,UklGRrwAAABXRUJQVlA4ILAAAAAQBQCdASoQABgAPrVInkmnJCKhMAgA4BaJbACsFQAFO8MVwRPxwI5OT0e3dW1tGkLgAP65/lxqL7E6ajlnWmH3zIlzSklxuL1hozUHJ77yKXXjmXT4bwnXz1Ihm+yEUUJM+U+EKvrzlg/CFyS4hJ+RGfODwibGf1w7ybrSeT1c8lgVwMZhetHZBxe6Pq6XJLcOsquAPn2faZKlW7gEZoKLBjlctMrkvVAXDfJ04fDAAA==",
+  "quelle": "Taverne zum Schäfli Wigoltingen/_quelle/website/bilder/6b9524_IMG_1956.jpeg",
+  "nachweis": null
+ },
+ "s-stube": {
+  "alt": "Die Gaststube mit Holztäfer, gerahmten Bildern und weiss gedeckten Tischen",
+  "w": 2304,
+  "h": 1536,
+  "verh": 0.66667,
+  "breiten": [
+   480,
+   800,
+   1200,
+   1800,
+   2304
+  ],
+  "abbild": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAABQAgCdASoQAAsAAoBCJagCdAYvXSHxOi3ie2AA/uJxT+bv7755QZF4IN8StaJRvvcoN3kMgGbIxhlV0G3953h+4aLN9LQ2Q2aLxv83S0S5xHihsKFV5WfjWtLwdaQ+BrBGIhiApdPdWkNLiiwEY4RngVqJ3EmLgAWAAA==",
+  "quelle": "Taverne zum Schäfli Wigoltingen/_quelle/website/bilder/ddd9db_49D29B1D-2F99-4E1D-AC5A-273C2E23A57D.jpeg",
+  "nachweis": null
+ },
+ "s-stube-abend": {
+  "alt": "Die Gaststube mit Holztäfer und gedeckten Tischen",
+  "w": 2304,
+  "h": 1536,
+  "verh": 0.66667,
+  "breiten": [
+   480,
+   800,
+   1200,
+   1800,
+   2304
+  ],
+  "abbild": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAwAgCdASoQAAsAAoBCJaACdAEUo8LgsqUcwAD+a0w0+d+kby2Ky1flhzHYpY0jEsw8njEKheUpE2nDCGOJeVdNkZ1JUP4jjaWaZI6cPViRHh0VpgmkgaUbkqoyKcX9qlzkk3CmwdOuAAAA",
+  "quelle": "Taverne zum Schäfli Wigoltingen/_quelle/website/bilder/dcbb1e_81267F4E-F499-4243-8E32-A3951488E9E9.jpeg",
+  "nachweis": null
+ },
+ "s-ofen": {
+  "alt": "Ein gedeckter Tisch vor dem Kachelofen und dem Buffet aus Holz",
+  "w": 2304,
+  "h": 1536,
+  "verh": 0.66667,
+  "breiten": [
+   480,
+   800,
+   1200,
+   1800,
+   2304
+  ],
+  "abbild": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAAAQAgCdASoQAAsAAoBCJagCdADFeg6S9xAAAP7wqTgzYmoQ5zA+X48ZvoMUYh2nraoCtVAwOYTc6wio7X5+/9Np/PUUpkQmGL2nB1ZGoJ1ZiINlpnfv19cbhHNeze4SLgy6Qd9rH+cN5PInFuux7s9lAd01gAAA",
+  "quelle": "Taverne zum Schäfli Wigoltingen/_quelle/website/bilder/f3f464_E3D2F627-FF4E-4BD1-963A-51B831F86150.jpeg",
+  "nachweis": null
+ },
+ "s-tafel": {
+  "alt": "Eine lange gedeckte Tafel im Saal mit Holzdecke",
+  "w": 2500,
+  "h": 1875,
+  "verh": 0.75,
+  "breiten": [
+   480,
+   800,
+   1200,
+   1800,
+   2400
+  ],
+  "abbild": "data:image/webp;base64,UklGRpAAAABXRUJQVlA4IIQAAABwAgCdASoQAAwAAoBCJbACdLoAEJOYKKvl+hoAAP7zNbaSFPkU8m5sAYDZGx7FTxd89cDsS4+zAOk57ae6DypnlW1LNMGJbl0glxMfrGCqrnn4H4fTk50KAzXhgzN+OAspWKXuWhPIXM8RMdfkuFmZGcyoz53CjtC6tDJxg/G48Q/gAAA=",
+  "quelle": "Taverne zum Schäfli Wigoltingen/_quelle/website/bilder/e278b3_IMG_8589.jpeg",
+  "nachweis": null
+ },
+ "s-hof": {
+  "alt": "Die lange gedeckte Tafel im Hof unter den Sonnenschirmen",
+  "w": 2304,
+  "h": 1536,
+  "verh": 0.66667,
+  "breiten": [
+   480,
+   800,
+   1200,
+   1800,
+   2304
+  ],
+  "abbild": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAAAwAgCdASoQAAsAAoBCJYgCdAYsPcwAfURhAAD9uhuG3I7ba/1m18f7hMIEZN+QSsqPT9uOK8Bb1At/YVWz3j4diRud+B3lDxsaRRoAuEl2+5Tvl6RJ0zDF1ID3hloF4S+bEQnm56v4JQHODoEXm8c9WMOOAAAA",
+  "quelle": "Taverne zum Schäfli Wigoltingen/_quelle/website/bilder/64209d_77C23C04-C8A0-4A40-878B-D2507FDCAB77.jpeg",
+  "nachweis": null
+ },
+ "s-muschel": {
+  "alt": "Jakobsmuschel, Kaviar, Kräuter-Beurre-Blanc",
+  "w": 1668,
+  "h": 1668,
+  "verh": 1.0,
+  "breiten": [
+   480,
+   800,
+   1200,
+   1668
+  ],
+  "abbild": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAAAQAgCdASoQABAAAoBCJQApgAgf/tzWlNCAAP71YL7/3JsTg3W7U1dOu2pgu0Assn32VO1uxagCUklBMpbkDm9R9vL9ploBhcHrT+Q/RRY8tfEDxJ8mmTyCqWxS6rhRL7SsJI4DIQAAAA==",
+  "quelle": "Taverne zum Schäfli Wigoltingen/_quelle/website/bilder/7aa08e_IMG_0376.jpg",
+  "nachweis": null
+ },
+ "s-scampi": {
+  "alt": "Scampi mit Thai-Curry-Nage, die Sauce wird mit dem Löffel angegossen",
+  "w": 2500,
+  "h": 3750,
+  "verh": 1.5,
+  "breiten": [
+   480,
+   800,
+   1200,
+   1800,
+   2400
+  ],
+  "abbild": "data:image/webp;base64,UklGRqIAAABXRUJQVlA4IJYAAABwBACdASoQABgAPrVKnkmnJCKhMAgA4BaJbACdAYv+7W19qQ1pZGsNLiS1wAD+YW9iluOsO+vbd5x9V9w+0QhjHDBE9nOq5PPvPE5XGARG9b8f3PPtElomff4RaU8EJLR8L+Kdd6apihaT7XVtJIlkIFzQovsd9BZgFxWvuYEl6fWC/BJkd/3SfXctzw5XuGLdaFcGAAA=",
+  "quelle": "Taverne zum Schäfli Wigoltingen/_quelle/website/bilder/57bc5c_IMG_0381.jpeg",
+  "nachweis": null
+ },
+ "s-ente": {
+  "alt": "Entenleber und Rhabarber",
+  "w": 2499,
+  "h": 2499,
+  "verh": 1.0,
+  "breiten": [
+   480,
+   800,
+   1200,
+   1800,
+   2400
+  ],
+  "abbild": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAABwAgCdASoQABAAAoBCJYwCxC8CmABkzD3RGZ7AAP77Odf6uN1yi/SJqARsmgXmsp5eeBYGtDnXNoHCf/6ZkIAO9mf0T4uryj7ed0BPTepoKpV+mZBBTAS6a+p+d+6XiD5MViiPXpPgAA==",
+  "quelle": "Taverne zum Schäfli Wigoltingen/_quelle/website/bilder/b3f2e6_IMG_0384.jpg",
+  "nachweis": null
+ },
+ "s-dessert": {
+  "alt": "Ein Dessert mit Erdbeeren und einem Gitter aus Zucker",
+  "w": 2500,
+  "h": 3750,
+  "verh": 1.5,
+  "breiten": [
+   480,
+   800,
+   1200,
+   1800,
+   2400
+  ],
+  "abbild": "data:image/webp;base64,UklGRp4AAABXRUJQVlA4IJIAAABwBACdASoQABgAPrVInkmnJCKhMAgA4BaJZgC7ACHphNwxJIy58d7VyLxcAAD+932JR0gLsmqftgm4I+8S8rQIdsYgIqOX9K6/SGpNuIvPC7iNAk5g8DO1lC9r3e+zmrUqc09T8raNZfo68/5pNuyEwusGG1mosBhR+EZjBkeUCgUMHqe14Ycbxc77Be5PemIAAA==",
+  "quelle": "Taverne zum Schäfli Wigoltingen/_quelle/website/bilder/179fa5_Schaefli_Juni2025-43-19.jpeg",
+  "nachweis": null
+ },
+ "s-orange": {
+  "alt": "Ein Gericht auf orangefarbener Sauce mit Kräutern",
+  "w": 2500,
+  "h": 3750,
+  "verh": 1.5,
+  "breiten": [
+   480,
+   800,
+   1200,
+   1800,
+   2400
+  ],
+  "abbild": "data:image/webp;base64,UklGRqgAAABXRUJQVlA4IJwAAAAwBACdASoQABgAPrVKn0onJCKhsAgA4BaJbAApMACW8GpII+8xYrGv/PAA/upW9HZCARGI3+gAM9LpXH0hy3Jsybh8yinypQH8vOZn58qNvXpniJgkXcQoKOWxpfT/9JZLWYscyjboMGCeI/xmA5/3Gat5pFozFfgHXhqRVB/wcb2f8/9PJHO4sNd//3W5fmHvGUbzuQxYwMp0AAA=",
+  "quelle": "Taverne zum Schäfli Wigoltingen/_quelle/website/bilder/f61ce3_Schaefli_Juni2025-21-11.jpeg",
+  "nachweis": null
+ },
+ "s-korb": {
+  "alt": "Ein Gericht im Bambuskorb",
+  "w": 2500,
+  "h": 3750,
+  "verh": 1.5,
+  "breiten": [
+   480,
+   800,
+   1200,
+   1800,
+   2400
+  ],
+  "abbild": "data:image/webp;base64,UklGRsQAAABXRUJQVlA4ILgAAADQBACdASoQABgAPrVInkmnJCKhMAgA4BaJbACdL1yagJm8RRfK5i0S0gjLVCYmoAD+9Xu2igzxzeaQ42U8BzEOjFBlR8RsbxvqtkBZHl/Yfvr9qywis14dhjk02BD4kxGGN3CwwroUh8Oqin7IzOTulbOux9OTqowapZPGpBLcf6HqnSSac8i9b0h7kZlcIZShGmVCF7PAs+697EyRMtwbhCbvRa4KoIL12X8/wwgFUqmexoAktsAA",
+  "quelle": "Taverne zum Schäfli Wigoltingen/_quelle/website/bilder/dea6a9_Schaefli_Juni2025-7-4.jpeg",
+  "nachweis": null
+ },
+ "s-einschenken": {
+  "alt": "Schaumwein wird aus der Flasche ins Glas eingeschenkt",
+  "w": 2304,
+  "h": 1536,
+  "verh": 0.66667,
+  "breiten": [
+   480,
+   800,
+   1200,
+   1800,
+   2304
+  ],
+  "abbild": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAAAwAgCdASoQAAsAAoBCJQBOgCP/8sDhtLHoAAD+kbdV+Ca1ROhB+ynwhKENNZUhSvvqTYTFs+L821Ocie6s0MbSU52N5BkqL+bhYIKqtHHY/G3tmDyQCLHuS9L656NA41IypZXbnt9nV6WxbEvmKPMAiU49vUYgAAA=",
+  "quelle": "Taverne zum Schäfli Wigoltingen/_quelle/website/bilder/7ccf4e_BE589680-AD07-4925-AD55-7246B547B4A0.jpeg",
+  "nachweis": null
+ },
+ "s-weinwand": {
+  "alt": "Die Weinschränke im Haus, davor die rote Aufschnittmaschine",
+  "w": 2304,
+  "h": 1536,
+  "verh": 0.66667,
+  "breiten": [
+   480,
+   800,
+   1200,
+   1800,
+   2304
+  ],
+  "abbild": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAAAwAgCdASoQAAsAAoBCJbACdAYvri/Qep7KkAD+9L+HlZpNp+iR/dwyecF4FOyI8hsPQgcNcfoCSz9TMwPfoW3RxB0CxXdCH/DT6Q7m4ez1RalmKlUDFJc0lo4ad02d+vXTz7Vl2D8CZ+ykP3IAAA==",
+  "quelle": "Taverne zum Schäfli Wigoltingen/_quelle/website/bilder/0b7896_57B762F1-4DA2-4AA6-89BB-2F16F8D9B62F.jpeg",
+  "nachweis": null
+ },
+ "s-bar": {
+  "alt": "Die Bar mit Hockern und beleuchtetem Regal",
+  "w": 2500,
+  "h": 3333,
+  "verh": 1.3332,
+  "breiten": [
+   480,
+   800,
+   1200,
+   1800,
+   2400
+  ],
+  "abbild": "data:image/webp;base64,UklGRu4AAABXRUJQVlA4IOIAAADQBACdASoQABUAPrVInkmnJCKhMAgA4BaJaACdAafpnaMDvLqNqKVOwHECqbJOAADNmOm4Yrsvqt7kJJNW/5QOuNP/X5JNa0R9DPGOxRD6TQnkodK1w9Q7Pv2/lPza/vqK9hsxuyF4WyLJQzouGrnrrvXCs2fHsS1UV2Wy+QVtXPkj92rF/ahe3Vr7TGaFaRbgSVjdD/+1dP6RQ2HV/sf39f/Bj5b02G97q2que/3tsd+hZf/AO5/iOLi/S8GBe4PKgv4GTpMxLf8J6VTgrckd6/O79FZlLbaTWUsdy6DEAAAA",
+  "quelle": "Taverne zum Schäfli Wigoltingen/_quelle/website/bilder/266fc0_IMG_9505.jpeg",
+  "nachweis": null
+ },
+ "s-zigarren": {
+  "alt": "Zigarren in einer Holzschublade",
+  "w": 2500,
+  "h": 3333,
+  "verh": 1.3332,
+  "breiten": [
+   480,
+   800,
+   1200,
+   1800,
+   2400
+  ],
+  "abbild": "data:image/webp;base64,UklGRtoAAABXRUJQVlA4IM4AAACwBACdASoQABUAPrVInkmnJCKhMAgA4BaJZgCdMoMh10bRKKZyn5fBZ2TgJt1QAOFcFiyFHmYT6UFdhh39IaRN1vwtuQ8yc9o2IYYwcivGi2zDeXjlkrgVVOszJM0RKrRfZPb9p4m2qbf6w0+1D9otskBpw1HMjSlnNBrsx4urYXBgO2HwZ+1h+IB0J5dQKeDCTfn5yf4xIkp56XNQ0rIj7kHVvLP/4ji/8gPo+jAakQKZ/+AhAh3/ND087kci40s/yN3AurUBPyn/gYUAAA==",
+  "quelle": "Taverne zum Schäfli Wigoltingen/_quelle/website/bilder/41f1b0_IMG_9508.jpeg",
+  "nachweis": null
+ },
+ "s-party": {
+  "alt": "Die Kitchen Party am Abend vor dem Haus",
+  "w": 1179,
+  "h": 1504,
+  "verh": 1.27566,
+  "breiten": [
+   480,
+   800,
+   1179
+  ],
+  "abbild": "data:image/webp;base64,UklGRroAAABXRUJQVlA4IK4AAAAwBACdASoQABQAPrVInkmnJCKhMAgA4BaJbACdAYyyzeKd9e9VUXkSLwAA/vXvcs9G5TvB6RkmQVj4DB5KKC2Q3EzHyI6l5ErDa8LMdTd/92zdiPOm0M/BasiKauzaIrDekxMfL3jCiN00+1Fc+wbGukLHpclWW7Z0EowXMwXTtKMGytWHbsfLMyj5VGwNh8vFmPtipJ2wvUzKQ3KkKHyIn9lyUV7mBeY9k4gAAAA=",
+  "quelle": "Taverne zum Schäfli Wigoltingen/_quelle/website/bilder/6db15f_IMG_3651.jpeg",
+  "nachweis": null
+ },
+ "l-haus": {
+  "alt": "Die Wirtschaft am Schlössli im ehemaligen Hafenmeistergebäude am Hafen von Bottighofen",
+  "w": 3840,
+  "h": 2227,
+  "verh": 0.57995,
+  "breiten": [
+   480,
+   800,
+   1200,
+   1800,
+   2400
+  ],
+  "abbild": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAADQAQCdASoQAAkAAoBCJQBOgB9rh87bSAD+9J5xzsO7HfTsIa7l8wzLs5gBO/S/jBXk+xGVapn1cehDcWpSykY5otRSTkNGB2ztBMXyGJ60iCioTUP0pmM3KUCky+D2beAOq/sAAAA=",
+  "quelle": "Wirtschaft am Schlössli Bottighofen/_quelle/extern/wikipedia-commons/bilder/Bar_Wirtschaft_\"Schlössli\"_am_Bodensee_in_Bottighofen_TG_(2016).jpg",
+  "nachweis": {
+   "urheber": "JoachimKohler-HB",
+   "lizenz": "CC BY-SA 4.0",
+   "quelle": "https://commons.wikimedia.org/wiki/File:Bar_Wirtschaft_\"Schlössli\"_am_Bodensee_in_Bottighofen_TG_(2016).jpg"
+  }
+ },
+ "l-luft1954": {
+  "alt": "Das Strandhotel Schlössli in Bottighofen aus der Luft, 1954",
+  "w": 3648,
+  "h": 2523,
+  "verh": 0.69161,
+  "breiten": [
+   480,
+   800,
+   1200,
+   1800,
+   2400
+  ],
+  "abbild": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADwAQCdASoQAAsAAoBCJaQAApzrOqgqaQAA9iVvbu2p+i9S20x193O5c1qNbuiZN1SZ33tqs0O09XvEoZhXEJU+frIHYj6p5T6EbD1SaGpExQAA",
+  "quelle": "Wirtschaft am Schlössli Bottighofen/_quelle/extern/wikipedia-commons/bilder/ETH-BIB-Bottighofen,_Strandhotel_Schlössli-LBS_H1-017018.jpg",
+  "nachweis": {
+   "urheber": "Werner Friedli",
+   "lizenz": "CC BY-SA 4.0",
+   "quelle": "https://commons.wikimedia.org/wiki/File:ETH-BIB-Bottighofen,_Strandhotel_Schlössli-LBS_H1-017018.tif"
+  }
+ },
+ "l-morgen": {
+  "alt": "Morgen am Bodensee mit der Schifflände Bottighofen, dahinter die Alpen",
+  "w": 3840,
+  "h": 2160,
+  "verh": 0.5625,
+  "breiten": [
+   480,
+   800,
+   1200,
+   1800,
+   2400
+  ],
+  "abbild": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADQAQCdASoQAAkAAoBCJaACdAEPWC71AAD+sP2378u0MIqG7iyh/Shs2TqqeEGFJcU9R+zyaE10dE3gE0gOFYV3cTmM1XdgAAA=",
+  "quelle": "Wirtschaft am Schlössli Bottighofen/_quelle/extern/wikipedia-commons/bilder/Morgen_am_Bodensee_mit_Schifflände_Bottighofen_(2012).jpg",
+  "nachweis": {
+   "urheber": "JoachimKohler-HB",
+   "lizenz": "CC BY-SA 4.0",
+   "quelle": "https://commons.wikimedia.org/wiki/File:Morgen_am_Bodensee_mit_Schifflände_Bottighofen_(2012).jpg"
+  }
+ },
+ "l-bootshafen": {
+  "alt": "Der Bootshafen von Bottighofen, dahinter die Wirtschaft und das Schlössli",
+  "w": 2560,
+  "h": 1707,
+  "verh": 0.6668,
+  "breiten": [
+   480,
+   800,
+   1200,
+   1800,
+   2400
+  ],
+  "abbild": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAwAgCdASoQAAsAAoBCJYwCdAD5PpN5B7+aAAD9eO2cQaH3JDtGRyb816j1juM56nZAt4rLYDxU1e/hlNdfjlZfwyitF1Et1Plji4f9aK2XWwJ6yOwfxLptCgAAAA==",
+  "quelle": "Wirtschaft am Schlössli Bottighofen/_quelle/extern/wikipedia-commons/bilder/Bootshafen_mit_Wirtschaft_und_Schlössli_-_MG_0679.jpg",
+  "nachweis": {
+   "urheber": "JoachimKohler-HB",
+   "lizenz": "CC BY-SA 4.0",
+   "quelle": "https://commons.wikimedia.org/wiki/File:Bootshafen_mit_Wirtschaft_und_Schlössli_-_MG_0679.jpg"
+  }
+ },
+ "l-moni": {
+  "alt": "Monika Huber, Küchenchefin, auf der Terrasse",
+  "w": 2441,
+  "h": 3661,
+  "verh": 1.4998,
+  "breiten": [
+   480,
+   800,
+   1200,
+   1800,
+   2400
+  ],
+  "abbild": "data:image/webp;base64,UklGRv4AAABXRUJQVlA4IPIAAACQBQCdASoQABgAPrVInkmnJCKhMAgA4BaJaACdIIrIBLAA9ADOHcxY9ppIoe6+iM5QzIZJAAD+3/3Xcy2s03sG6Aw2A1DwMrBSTx6wx93ynbS+zJqC/SH76tWeR9Uzp5jjLyuCFukJwumQW3K3QvnVTjOxdOw2qUG9bYnvOiHkbt4/kXJQRXPvOPTfO2saUVN3xdR7XS+JJcQY5YJOk2HAPOQ+xA53tkhuP94FczxsovH4AoqWv/6S7/HH71Q2Md+WEkL2v7okR2xyrehJl8xKZsHgPPIgSdUbU2aa9/U3f/Fm5+eGXuHfC9fL34//gAAAAA==",
+  "quelle": "Wirtschaft am Schlössli Bottighofen/_quelle/website/bilder/c39c8a_5_-_FHF_2667.jpg",
+  "nachweis": null
+ },
+ "l-jonas": {
+  "alt": "Jonas Volpert, Gastgeber und Sommelier, auf der Terrasse",
+  "w": 2441,
+  "h": 3661,
+  "verh": 1.4998,
+  "breiten": [
+   480,
+   800,
+   1200,
+   1800,
+   2400
+  ],
+  "abbild": "data:image/webp;base64,UklGRvAAAABXRUJQVlA4IOQAAADwBACdASoQABgAPrVInkmnJCKhMAgA4BaJZgCdMoMlqYADkbIR+NdCYOtK+js7sQAA/pTqMyL93ipRZS/5DaC2jCeebTWXahHmgD1LPE1c+jx4v2evGiTRrEaHrimtq1ck2FRr9p6sB7HW7xnmygqmrPR0mRg1qx1RSAGGX9NKUlnXLr7bp/u6H+Nlcz7tvGPxsGtsVmHliU1dUAxLRTbNecVtxegqPT+uc5Y+l8k9zOkxvDXsvVHRdymu15M8G0ahGXplB44dwaGKEssEvG8eu4XD7pv1DLEh9aZ1Wh8w75+AAAA=",
+  "quelle": "Wirtschaft am Schlössli Bottighofen/_quelle/website/bilder/dfee6f_11_-_FHF_2706.jpg",
+  "nachweis": null
+ },
+ "l-team": {
+  "alt": "Das Team der Wirtschaft am Schlössli vor der Holzwand",
+  "w": 2500,
+  "h": 1667,
+  "verh": 0.6668,
+  "breiten": [
+   480,
+   800,
+   1200,
+   1800,
+   2400
+  ],
+  "abbild": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAAAwAgCdASoQAAsAAoBCJZQCdAYt92Z9qugkQAD+8uethX86XY68EgTpjaUOj/YJLJJ+jqlyn+YXxafFk6izIc+jfun0Q8xl+akda75754mw1h1Zb0p7S2uSIdiH+Wkh0CIl8T6jrsWI1aZziZLAAA==",
+  "quelle": "Wirtschaft am Schlössli Bottighofen/_quelle/website/bilder/d51216_2_-_FHF_2646.jpg",
+  "nachweis": null
+ },
+ "l-sauce": {
+  "alt": "Die Sauce wird mit dem Löffel angegossen",
+  "w": 1043,
+  "h": 1270,
+  "verh": 1.21764,
+  "breiten": [
+   480,
+   800,
+   1043
+  ],
+  "abbild": "data:image/webp;base64,UklGRqAAAABXRUJQVlA4IJQAAABQBACdASoQABMAPrVInkmnJCKhMAgA4BaJbAC06YvC7WQzDUr5VdOs+VN0AP7y6keQOPqPKHtrKDEjOES8jmF3ihGk0Do3aTYQHz/ZUrem+hy1wif3XIHUDCzrQLeMljOu1MDxm9G74zzPI7lRiHaqIvNKR1gaNPGWzEa7kkHoCmWr8YhIeS3x6HhDHb5rxrDkGwAA",
+  "quelle": "Wirtschaft am Schlössli Bottighofen/_quelle/extern/myswitzerland/02_922778688.jpg",
+  "nachweis": null
+ },
+ "l-lounge": {
+  "alt": "Lounge mit Champagner am Ufer, dahinter der See und die Alpen",
+  "w": 1761,
+  "h": 1180,
+  "verh": 0.67007,
+  "breiten": [
+   480,
+   800,
+   1200,
+   1761
+  ],
+  "abbild": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAADwAQCdASoQAAsAAoBCJZgCdAYtys/+JGAA+Ma85tT+h/3Xwcfnoog+3XHMTdiHqdF/oY338MJgCQU9ZlF1ojua+0X8sfToHz5HisuJd6qOOvaXpdnxwmA2UP1a3gFXKtg9y5pIT+9ybf4AAAA=",
+  "quelle": "Wirtschaft am Schlössli Bottighofen/_quelle/extern/myswitzerland/01_922778687.jpg",
+  "nachweis": null
+ },
+ "l-start": {
+  "alt": "Blaue Stühle auf der Terrasse am Mittag, dahinter der Bodensee und die Alpen",
+  "w": 2500,
+  "h": 1667,
+  "verh": 0.6668,
+  "breiten": [
+   480,
+   800,
+   1200,
+   1800,
+   2400
+  ],
+  "abbild": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAABQAgCdASoQAAsAAoBCJaACdADp/ytvlZbmQgAA/uqpOtw794OSJrSbAzJnEpeDaYVsWftwsjMEewJ9o/jgD8PCvi3BD5PIFmM1nDli2ejS/XeYUcSvVH68PcatN/c3g/3qIQaGsSDCVA66n3AAAA==",
+  "quelle": "Wirtschaft am Schlössli Bottighofen/_quelle/website/bilder/8cc68d_32_-_FHF_2573.jpg",
+  "nachweis": null
+ },
+ "l-platanen": {
+  "alt": "Gedeckte Tische unter den Platanen, Sonnenschirme, dahinter der Hafen",
+  "w": 2500,
+  "h": 3333,
+  "verh": 1.3332,
+  "breiten": [
+   480,
+   800,
+   1200,
+   1800,
+   2400
+  ],
+  "abbild": "data:image/webp;base64,UklGRq4AAABXRUJQVlA4IKIAAABwBACdASoQABUAPrVInkmnJCKhMAgA4BaJYgATwBQVC8+MtUnwnkS6x6yssAD+0R3TZ5gZdM+oKwOAZOpUTucE33V5pmOUG92ZXcHKuTcIO66Hx76hd+bXBCvN3eWmC5CJTyA7YSzpuQevcHcJK+uo6auxG+nn/pZtaPBpdfn3y5Z/JvA5bGUNUN3lbGt5R0QXfVyvpjA7epwF5a+PZ13NAAA=",
+  "quelle": "Wirtschaft am Schlössli Bottighofen/_quelle/website/bilder/178109_IMG_1967.jpeg",
+  "nachweis": null
+ },
+ "l-abend": {
+  "alt": "Abend unter der Platane mit Lichterkette, Gäste am Tisch über dem See",
+  "w": 2500,
+  "h": 3333,
+  "verh": 1.3332,
+  "breiten": [
+   480,
+   800,
+   1200,
+   1800,
+   2400
+  ],
+  "abbild": "data:image/webp;base64,UklGRqgAAABXRUJQVlA4IJwAAABwBACdASoQABUAPrVInkmnJCKhMAgA4BaJbACdMoMjhWAAQpMRY7hObbI8aAD+80aJKti20ugdQxyRXcdfYTrCfNWr/CeCfOoQoRHVBTLB0v0pCRLOE56JgsxnBD80ArjzRY039VTON1ZSKhnz06Bfc0kG0gAVSByOPOauAql3dXhGZHX0utqNkZdMaCOj/AIdTFihSEIBJg5pAAA=",
+  "quelle": "Wirtschaft am Schlössli Bottighofen/_quelle/website/bilder/28f071_2026-05-22_220420_Schl_C3_B6ssli_SM_blurred.jpg",
+  "nachweis": null
+ },
+ "l-apero": {
+  "alt": "Ein Spritz und ein Bier auf einem blauen Tisch in der blauen Stunde",
+  "w": 2500,
+  "h": 3334,
+  "verh": 1.3336,
+  "breiten": [
+   480,
+   800,
+   1200,
+   1800,
+   2400
+  ],
+  "abbild": "data:image/webp;base64,UklGRroAAABXRUJQVlA4IK4AAACwBACdASoQABUAPrVInkmnJCKhMAgA4BaJZgCsIDh/+AvNgaDBG2K/AIn6v/sAAP7zOYSF5CVF3gF6Jb58NOOiXj34ROMYX+P7zPJZ+ZwOOn2UAbmt69eA9vHv6rHyWcmcA3tgnD4WXOtX/IuLhKkWb9rkCvmodsJyMKSCwzodQ85mM4/XcYzTGTAGmS6/l13LrN1aFiDOhpW9CU6Zz5N8a1WGFxpPtlLmWBAAAAA=",
+  "quelle": "Wirtschaft am Schlössli Bottighofen/_quelle/website/bilder/816543_2026-05-22_205034_Schl_C3_B6ssli_SM.jpg",
+  "nachweis": null
+ },
+ "l-tortelloni": {
+  "alt": "Tortelloni mit Tomate, Burrata und Taggiasca-Olive",
+  "w": 900,
+  "h": 1350,
+  "verh": 1.5,
+  "breiten": [
+   480,
+   800,
+   900
+  ],
+  "abbild": "data:image/webp;base64,UklGRsIAAABXRUJQVlA4ILYAAADQBACdASoQABgAPrVInkmnJCKhMAgA4BaJbACdL1y8b1qEqzslKSWf2ufZoWLSQAD+1BaAuwiTT3FzZX72mcHDvJOEGtEfYuqozB4jg4DI722tAiPslg4KOwG9pZtSLWhZSBsc0ibqhh9ZjTlbfgbw7FY75wM/mBsP61XRfV351vgNrHuEucPJe6wDqsbtUzYJNx1Xsn2bn4//UogYOan4JsCdy5vbAHBB0haWfgaDjd7DoAAAAA==",
+  "quelle": "Wirtschaft am Schlössli Bottighofen/_quelle/website/bilder/88d916_Tortelloni.jpg",
+  "nachweis": null
+ },
+ "l-glas": {
+  "alt": "Ein Glas Weisswein und ein Wasserglas vor dem See",
+  "w": 2500,
+  "h": 3750,
+  "verh": 1.5,
+  "breiten": [
+   480,
+   800,
+   1200,
+   1800,
+   2400
+  ],
+  "abbild": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAAAQBACdASoQABgAPrVKnkonJCKhsAgA4BaJYwC7AGlfh9bTXkLyC6F9wAD+/nsJ3lrnatpda3cyg7EnG+608icb70YrvH+TncbtahHL3FmVhVd4+u9RVl+9sLI7zKUx7adDxf0JE48vS6y7CQkM0hg0qpLU2C58pCtHflbq5VPv8JsAm5IAAA==",
+  "quelle": "Wirtschaft am Schlössli Bottighofen/_quelle/website/bilder/9a3afc_Schloessli_August2025-1-1.jpg",
+  "nachweis": null
+ },
+ "l-anguria": {
+  "alt": "Ein Teller von oben auf dem blauen Platzteller",
+  "w": 2500,
+  "h": 3333,
+  "verh": 1.3332,
+  "breiten": [
+   480,
+   800,
+   1200,
+   1800,
+   2400
+  ],
+  "abbild": "data:image/webp;base64,UklGRtQAAABXRUJQVlA4IMgAAADwBACdASoQABUAPrVInkmnJCKhMAgA4BaJbACdMoFWZkeB7kzpTbOTH2t9S/t//gAA4nGBWxWDSJKrOaNHGhlgSnww/obco5mdNueZFS5fQZfTopeTH6f9CZO8WWiEECJJ6qq+iymPGenG0jr5F6DwgN9lRd86JtMLz7fK1tUk/2nSBeCt16m0/cD61ZgbjpB+YbX7dVdcwKUHacYSOrRPh+vfSgjm8v9KZkZ/dQoS7NmICl9StQibfY60o3BdWIkBnGxr0DEYAA==",
+  "quelle": "Wirtschaft am Schlössli Bottighofen/_quelle/website/bilder/7f6b93_Anguria.jpg",
+  "nachweis": null
+ },
+ "l-thon": {
+  "alt": "Thunfisch in Scheiben in einer gerippten Schale",
+  "w": 2500,
+  "h": 3750,
+  "verh": 1.5,
+  "breiten": [
+   480,
+   800,
+   1200,
+   1800,
+   2400
+  ],
+  "abbild": "data:image/webp;base64,UklGRsYAAABXRUJQVlA4ILoAAABwBACdASoQABgAPrVInkmnJCKhMAgA4BaJbACdICXgvRgSESnvc7/lVS3HOAD+7eGhn1TlLo04JRnVzoP2acd1MvvBlEF1fgXrQXXc8SpStSdgf2PK29RyzsTufdYJPlqV25h7N4Z6QyqxyReeMz4YKNCtwbPdkQGTZHS15IWxv7knXXjAddGqAsjrb2w5hUtCt4XfLzFmLjan/gvy/szcV1dClcOQ1ILngdhZ1+gQVyNFuBoSHM8RoAA=",
+  "quelle": "Wirtschaft am Schlössli Bottighofen/_quelle/website/bilder/fc5b3b_Schloessli_August2025-11-5.jpg",
+  "nachweis": null
+ },
+ "l-iberia": {
+  "alt": "Fisch in grüner Sauce in einer gerippten Schale, daneben ein Weinglas",
+  "w": 2500,
+  "h": 3750,
+  "verh": 1.5,
+  "breiten": [
+   480,
+   800,
+   1200,
+   1800,
+   2400
+  ],
+  "abbild": "data:image/webp;base64,UklGRtIAAABXRUJQVlA4IMYAAACwBACdASoQABgAPrVMnkonJCKhsAgA4BaJbAAdpgRDIwAxM+7jP25ZH+my2rSAAP73BogZOKSiIXBX6DecgX1Zv+jmXEGKfcOsLZB8OZz9AwmdIo2kiMQHn0HE2+lPDJvYrfFxv/2x//e5c/hAU8K1yLfrduLL6FXTfu07hW6B7ek/+CqJxHslpdI5Pm+4SiA0EdCLHdGHq7O5wkaj0zrHwvwe/1PlCZCVuo3GCmlLIH/5/4yX4IM9PwRFadfQ0LWyL8y8AAA=",
+  "quelle": "Wirtschaft am Schlössli Bottighofen/_quelle/website/bilder/d18c6d_Schloessli_August2025-9-4.jpg",
+  "nachweis": null
+ },
+ "l-pasta": {
+  "alt": "Schwarze Pasta mit Garnelen und Meeresfrüchten",
+  "w": 1536,
+  "h": 2304,
+  "verh": 1.5,
+  "breiten": [
+   480,
+   800,
+   1200,
+   1536
+  ],
+  "abbild": "data:image/webp;base64,UklGRtQAAABXRUJQVlA4IMgAAACQBACdASoQABgAPrVInkmnJCKhMAgA4BaJbACdFQAFpm54bFCB9hQ9iMZJ0QAA9hmEX7p9Em8BO3QTPqbQXDNzwQ5u7lsdiqgMn084BRC93lnM9QHwuTSP3B3w07ILC81f0eQaFcu1Eee0EPvWuIxbBZh+gLlPid8vm1XrGuJ1srkTZPZh/Cx/L/d+m0Jck2avuFE9rUTKoS2npjd7/NV7CxY49+yP+vdYI+dpozI/cdeJ3+DPDItSu79HoKlDNWi2fRrLRWAAAA==",
+  "quelle": "Wirtschaft am Schlössli Bottighofen/_quelle/website/bilder/93b96d_Schloessli_August2025-12-6.jpeg",
+  "nachweis": null
+ },
+ "l-dessert": {
+  "alt": "Dessert mit Beeren auf einem blauen Teller",
+  "w": 2500,
+  "h": 3750,
+  "verh": 1.5,
+  "breiten": [
+   480,
+   800,
+   1200,
+   1800,
+   2400
+  ],
+  "abbild": "data:image/webp;base64,UklGRvIAAABXRUJQVlA4IOYAAAAQBQCdASoQABgAPrVMoUqnJCMhsAgA4BaJagCdMoMzG0aj7ArVkmLZkhTzzXuLljzAAP7+g6lHt4pefYv+1HJzTzzAniMTxnRWw69tzuoaZQ3sOwMlbDU0K4m/uDicyYh/YTOh0P4W3jj9ydpUKfx/xsf1SzRIPF6bIXenATL4ojUZ92bcUn+nmcMKrHQm3jEb3b14l8sAcGfXIVMxWn5LTzVwHuxMrFhz+eMdfaujq2zHbgS2JoMWg6SPpUxHIMGpZlzzQ7JqBpFjLmwhPAu/oICqeGLQqLwE3zC0zBp+RNB8PwAAAA==",
+  "quelle": "Wirtschaft am Schlössli Bottighofen/_quelle/website/bilder/9f207d_Schloessli_August2025-18-9.jpg",
+  "nachweis": null
+ },
+ "l-suppe": {
+  "alt": "Grüne Suppe in einer blauen Schale",
+  "w": 1536,
+  "h": 2304,
+  "verh": 1.5,
+  "breiten": [
+   480,
+   800,
+   1200,
+   1536
+  ],
+  "abbild": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAABwBACdASoQABgAPrVInkmnJCKhMAgA4BaJYwC7AYw6yrLMGH08TYPrNNtbMAD+8/nW2u0+p7v/XB7uQ/EZODZc5pqJNHbY91amJ6ODP89Ic7plb64mfhNjxwULLbH++3cK1/PTCFR3S9zKx8VqnV4dN9ywC+yCafQW+w7j6GtmL2Xw/RR4B5vXkfDFaAAA",
+  "quelle": "Wirtschaft am Schlössli Bottighofen/_quelle/website/bilder/05cfd1_Schloessli_August2025-5-2.jpeg",
+  "nachweis": null
+ },
+ "l-gaststube": {
+  "alt": "Die Gaststube mit grossen Fenstern zum Hafen",
+  "w": 2500,
+  "h": 1877,
+  "verh": 0.7508,
+  "breiten": [
+   480,
+   800,
+   1200,
+   1800,
+   2400
+  ],
+  "abbild": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAABQAgCdASoQAAwAAoBCJYwC7AYv/ozQnPh7cSAA/liM5/8S+DTr8D+726Nrqj37S/Riu9/w9fR4bQlD9Z+W1hy49AWmw2rCWu1Rpord/0mEFQMrRZl8t8igXxbCp3zDuAj2KepmBwVPjnX9qI9skhiUw1uSKZMR1gAAAA==",
+  "quelle": "Wirtschaft am Schlössli Bottighofen/_quelle/website/bilder/50fa79__DSC5718.JPG",
+  "nachweis": null
+ },
+ "l-regal": {
+  "alt": "Flaschen im Regal an der Bar, durch die Scheibe der See",
+  "w": 1920,
+  "h": 1280,
+  "verh": 0.66667,
+  "breiten": [
+   480,
+   800,
+   1200,
+   1800,
+   1920
+  ],
+  "abbild": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAADwAQCdASoQAAsAAoBCJYgCdACkgNZdBWAA/sByrBKY7IhpCLg9T9Rbf2fPtEY+MP5Mn1N9fsB7Zgn45jFqRWyfRvq1mjV6JmVHhur5rXI5W+QWQFHZTxW/pKLVKonLm2leffS07q2pLypyuAA=",
+  "quelle": "Wirtschaft am Schlössli Bottighofen/_quelle/website/bilder/de97ff_IMG_2166.jpeg",
+  "nachweis": null
+ },
+ "l-wein": {
+  "alt": "Weinflaschen im Regal",
+  "w": 2500,
+  "h": 3330,
+  "verh": 1.332,
+  "breiten": [
+   480,
+   800,
+   1200,
+   1800,
+   2400
+  ],
+  "abbild": "data:image/webp;base64,UklGRtIAAABXRUJQVlA4IMYAAAAQBACdASoQABUAPrVInkmnJCKhMAgA4BaJYwAD5UGquHxCENO7LtW7AAD+wpNS6nHYd9+MHKRGEjodqqJLjlkxL2G5bW5QyPj9PJr9Ufv43HTKEgvhpBVfJMSPOAnBMMpZUV4TAGxnrzAJvWaUce8Bo7fsnp3lBffEN+tJGKg7IxcQtT35RHvYB7Bd5mDsqT2PD+defbNypt7aVJ/rAokHMQBw+92gpjT85X4yFkFH+9wTOEa3YvTKI1JebzLpMtgS1Z1QAAA=",
+  "quelle": "Wirtschaft am Schlössli Bottighofen/_quelle/website/bilder/8e85ca__DSC5833_1.JPG",
+  "nachweis": null
+ },
+ "l-schild": {
+  "alt": "Wegweiser zur A-la-carte-Restaurant-Terrasse und zur Lästermeile",
+  "w": 2500,
+  "h": 3334,
+  "verh": 1.3336,
+  "breiten": [
+   480,
+   800,
+   1200,
+   1800,
+   2400
+  ],
+  "abbild": "data:image/webp;base64,UklGRvIAAABXRUJQVlA4IOYAAAAwBQCdASoQABUAPrVInkmnJCKhMAgA4BaJbACdMoMlqCAD0GmsjqCwW0Sx++o85hnlgAD+6Id1Vy+2nbIBvue9Mod8/2Tvd3N8x7lcH5MRWOzQYeLIZWlMak64okn6Z9Ih73/dUI2a85t2Zy8sidnLvt4W1WWBhz4hqUX7cVabVX14I43AcBys86I4xnPrVp+4MrX73WY/VOZUc53f1TGlNdrtOK7C4D6tuUTwbbsytNC9ocHmG1vkGyI03AV/+ML3yTzs/+dHHDieQycke4WTpB2Vvz7ESQYDjo2LKR70gpqILjwAAA==",
+  "quelle": "Wirtschaft am Schlössli Bottighofen/_quelle/website/bilder/a005f3_2026-05-22_193805_Schl_C3_B6ssli_SM.jpg",
+  "nachweis": null
+ },
+ "s-champagner": {
+  "alt": "Eine Flasche Laurent-Perrier Blanc de Blancs und ein Glas Champagner auf weissem Tischtuch in der Gaststube",
+  "w": 1536,
+  "h": 1536,
+  "verh": 1.0,
+  "breiten": [
+   480,
+   800,
+   1200,
+   1536
+  ],
+  "abbild": "data:image/webp;base64,UklGRpgAAABXRUJQVlA4IIwAAACQAgCdASoQABAAAoBCJbACdAYvDzY/+SCZ//fB+AD+82bJyTAnzOtiWzw4K3HTt/lUgnXap6edvmE4mLDr7hxb+4DUz4MwH1G4CbVZEOzsZJvnnfEe9iz79dvEPhwSyfykNyhqukxK49GLHlLqZ5HKdSojK1zlTLvNHJHfX76/vpSM/lU9u82SuKAAAA==",
+  "quelle": "Taverne zum Schäfli Wigoltingen/_quelle/website/bilder/092551_6C9BCBE0-3530-4C9B-BD71-29DB35EF1C0C.jpg",
+  "nachweis": null
+ }
+}
